@@ -1,3 +1,10 @@
+import './globals.css';
+
+export const metadata = {
+  title: 'VeritasPathAi',
+  description: 'AI-aware developer credentialing',
+};
+
 export default function RootLayout({
   children,
 }: {

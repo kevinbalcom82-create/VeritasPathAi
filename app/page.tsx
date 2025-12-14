@@ -1,7 +1,7 @@
 'use client';
 
-import App from '../App';
+import Dashboard from '../components/Dashboard';
 
 export default function Page() {
-  return <App />;
+  return <Dashboard />;
 }
